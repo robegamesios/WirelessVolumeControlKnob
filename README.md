@@ -1,4 +1,4 @@
-# WirelessVolumeControlKnob
+# DIY Wireless Volume Control Knob
 
 # Video: https://youtu.be/XfLi3qoK6l4
 
