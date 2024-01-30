@@ -14,7 +14,7 @@
 3. 3D print parts or you can use whatever case you like. You can even use the old mouse case. [volumeKnob_stl.zip](https://github.com/robegamesios/WirelessVolumeControlKnob/files/14093454/volumeKnob_stl.zip)
 4. Transfer the mouse components to your new case.
 
-#Software:
+# Software:
 1. Volumouse to control the volume - https://www.nirsoft.net/utils/volumouse.html
 2. X-Mouse Button Control to control the play/pause, next, and previous track - https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm
 
